@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-🔭 [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+🔭 [My Resume](-ссылка на google disk)
 
 ---
 
