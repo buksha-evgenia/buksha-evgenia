@@ -4,6 +4,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
+My name is Evgenia. I`m a 26-year-old QA Engineer. Here you can see my web and mobile testing portfolio items gained during my study.
+
   [My Resume]
 
 ---
