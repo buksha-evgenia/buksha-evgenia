@@ -14,7 +14,7 @@
 
 ---
 
-### ![image](https://github.com/buksha-evgenia/buksha-evgenia/assets/134475777/38eda42d-b948-4397-baef-57217f9e52ff)
+### 🌐
  Социальные сети:
  <div id="badges">
     <a href="https://t.me/zhenya1326" target="_blank">
