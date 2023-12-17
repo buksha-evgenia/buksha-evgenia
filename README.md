@@ -82,11 +82,11 @@
 <p> 
  <ul>
 <li>  <a href="https://github.com/buksha-evgenia/web_testing">Webshop testing</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
-<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
+<li>  <a href="https://github.com/buksha-evgenia/api-testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/buksha-evgenia/SQL">MySQL</a>   </li>
+<li>  <a href="https://github.com/buksha-evgenia/MongoDB">MongoDB</a>  </li>
 <li>  <a href="https://github.com/buksha-evgenia/mobile_testing"> Android app testing</a>   </li>
-<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/buksha-evgenia/Charles-Proxy">Replacing data with CharlesProxy</a>  </li>
 <li> <a href="https://github.com/buksha-evgenia/bash"> Bash </a>  </li>
 <li> <a href="https://github.com/buksha-evgenia/git"> Git </a> </li>
 </ul>
