@@ -14,7 +14,8 @@
 
 ---
 
-### 🤝 Социальные сети:
+### ![image](https://github.com/buksha-evgenia/buksha-evgenia/assets/134475777/38eda42d-b948-4397-baef-57217f9e52ff)
+ Социальные сети:
  <div id="badges">
     <a href="https://t.me/zhenya1326" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
