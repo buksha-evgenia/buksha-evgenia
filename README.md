@@ -77,6 +77,21 @@
 
 ---
 
+### ✏️ Testing Artefacts
+
+<p> 
+ <ul>
+<li>  <a href="https://github.com/buksha-evgenia/web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
+<li>  <a href="https://github.com/buksha-evgenia/mobile_testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/buksha-evgenia/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/buksha-evgenia/git"> Git </a> </li>
+</ul>
+</p>
+
 ### 💻 Completed courses:
 
 |                                  Courses                        |   Date            |
