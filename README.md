@@ -4,7 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
-My name is Evgenia. I`m a 26-year-old QA Engineer. Here you can see my web and mobile testing portfolio items gained during my study.
+My name is Evgenia. I`m a 26-year-old QA Engineer from Novosibirsk, Russia. Here you can see my web and mobile testing portfolio items gained during my study.
 
   [My Resume]
 
@@ -15,6 +15,21 @@ My name is Evgenia. I`m a 26-year-old QA Engineer. Here you can see my web and m
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:evgeniabuksha@gmail.com)
 
 ---
+
+### 📚 Testing Artefacts
+
+<p> 
+ <ul>
+<li>  <a href="https://github.com/buksha-evgenia/web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/buksha-evgenia/api-testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/buksha-evgenia/SQL">MySQL</a>   </li>
+<li>  <a href="https://github.com/buksha-evgenia/MongoDB">MongoDB</a>  </li>
+<li>  <a href="https://github.com/buksha-evgenia/mobile_testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/buksha-evgenia/Charles-Proxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/buksha-evgenia/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/buksha-evgenia/git"> Git </a> </li>
+</ul>
+</p>
 
 ### 🌐 Социальные сети:
 
@@ -79,21 +94,6 @@ My name is Evgenia. I`m a 26-year-old QA Engineer. Here you can see my web and m
 </div>
 
 ---
-
-### 📚 Testing Artefacts
-
-<p> 
- <ul>
-<li>  <a href="https://github.com/buksha-evgenia/web_testing">Webshop testing</a>  </li>
-<li>  <a href="https://github.com/buksha-evgenia/api-testing"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/buksha-evgenia/SQL">MySQL</a>   </li>
-<li>  <a href="https://github.com/buksha-evgenia/MongoDB">MongoDB</a>  </li>
-<li>  <a href="https://github.com/buksha-evgenia/mobile_testing"> Android app testing</a>   </li>
-<li> <a href="https://github.com/buksha-evgenia/Charles-Proxy">Replacing data with CharlesProxy</a>  </li>
-<li> <a href="https://github.com/buksha-evgenia/bash"> Bash </a>  </li>
-<li> <a href="https://github.com/buksha-evgenia/git"> Git </a> </li>
-</ul>
-</p>
 
 ### 💻 Completed courses:
 
