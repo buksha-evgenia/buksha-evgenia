@@ -16,7 +16,7 @@ My name is Evgenia. I`m a 26-year-old QA Engineer from Novosibirsk, Russia. Here
 
 ---
 
-### 📚 Testing Artefacts
+### 📚 Testing artefacts
 
 <p> 
  <ul>
