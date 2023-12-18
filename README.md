@@ -31,7 +31,7 @@ My name is Evgenia. I`m a 26-year-old QA Engineer from Novosibirsk, Russia. Here
 </ul>
 </p>
 
-### 🌐 Социальные сети:
+### 🌐 Social networks:
 
  <div id="badges">
     <a href="https://t.me/zhenya1326" target="_blank">
