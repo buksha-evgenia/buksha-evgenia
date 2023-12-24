@@ -4,7 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
-My name is Evgenia. I`m a QA Engineer from Novosibirsk, Russia. Here you can see my web and mobile testing portfolio.
+My name is Evgenia. I`m a Manual QA Engineer from Novosibirsk, Russia. Here you can see my web and mobile testing portfolio.
 
   [My Resume]
 
