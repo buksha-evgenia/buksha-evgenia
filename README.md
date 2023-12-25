@@ -6,7 +6,7 @@
 
 My name is Evgenia. I`m a Manual QA Engineer from Novosibirsk, Russia. Here you can see my web and mobile testing portfolio.
 
-<a href="https://docs.google.com/document/d/1Scm1PGryTPdxNvkHhKNb4ltgOOHJm-PM/edit">[My Resume]</a>
+<a href="https://drive.google.com/file/d/1QGSE1h--ECaTYpIktvEJSEyX1mZr-j9A/view?usp=sharing">[My Resume]</a>
 
 ---
 
